@@ -15,3 +15,20 @@
 8. Setup connect TCP about brower and server -> brower send a request http -> server accept request and handle after return response -> server send http response -> brower render html,css,js..
 9. Semantic versioning: express: "4.17.1" ~ majar.minor.patch. when fix bug and then realse we inscrease 1 patch. when we deliver a feature but not change old api we inscrease 1 minor, but if change inscrease 1 major. Note: "^17.1.1" ~ 17.x and "~17.1.1" 17.1.x
 
+# 12/2/2021
+1. Practice do toast message
+2. Practice do task
+3. Review bem
+
+# 13/2/2021
+1. Practice audio music
+2. Practice libary to know more redux and react
+
+# 14/2/2021
+1. Practice todolist with library
+2. Just you have a goal, nothing can be may you lost
+3. 6 senses so important: present simple, present continue, present perject, simple past, simple future, going to
+
+# 15/2/2021
+1. Practice clone mp3 music
+2. Learn library
