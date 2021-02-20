@@ -32,3 +32,10 @@
 # 15/2/2021
 1. Practice clone mp3 music
 2. Learn library
+
+# 19/2/2021
+1. Review clone mp3 music.
+2. Learning english with mrDinh and Thang Pham.
+
+# 20/2/2021
+1. Learning english through Steve Jobs speech
